@@ -12,7 +12,7 @@ the corresponding semantic segmentation annotation can be read likewise.
 
 **To get the relation annotation of a certain image, for example, 'indoor_00002.jpg', run:**
 
-	relation = rel.loadRelation('indoor_00002.jpg')
+	relation = rel.loadRelation('indoor_02018.jpg')
 
 
 
